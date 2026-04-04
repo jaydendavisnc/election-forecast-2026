@@ -1,0 +1,76 @@
+district_code,section,holding_party,open_seat,noncontributing,incumbent,party_label,announced,reason,harris_pct,trump24_pct,biden_pct,trump20_pct,preferred_successor
+AL-01,REP_OPEN,REP,True,False,Barry Moore,(R),12-Aug-25,Running for Senate,22.0,77.0,24.0,75.0,
+AZ-01,REP_OPEN,REP,True,False,David Schweikert,(R),30-Sep-25,Running for governor,48.0,51.0,50.0,49.0,
+AZ-05,REP_OPEN,REP,True,False,Andy Biggs,(R),25-Jan-25,Running for governor,39.0,59.0,41.0,57.0,
+CA-03,REP_OPEN,REP,True,False,Kevin Kiley,(R),2-Mar-26,Running for CA-06,,,,,
+CA-41,REP_OPEN,REP,True,False,Ken Calvert,(R),5-Nov-25,Running for CA-40,,,,,
+CA-48,REP_OPEN,REP,True,False,Darrell Issa,(R),6-Mar-26,Retiring,,,,,Jim Desmond
+FL-02,REP_OPEN,REP,True,False,Neal Dunn,(R),13-Jan-26,Retiring,41.0,59.0,44.0,55.0,
+FL-16,REP_OPEN,REP,True,False,Vern Buchanan,(R),27-Jan-26,Retiring,42.0,57.0,45.0,54.0,
+FL-19,REP_OPEN,REP,True,False,Byron Donalds,(R),25-Feb-25,Running for governor,35.0,64.0,39.0,60.0,
+GA-01,REP_OPEN,REP,True,False,Buddy Carter,(R),8-May-25,Running for Senate,42.0,58.0,43.0,56.0,
+GA-10,REP_OPEN,REP,True,False,Mike Collins,(R),28-Jul-25,Running for Senate,39.0,60.0,39.0,60.0,
+GA-11,REP_OPEN,REP,True,False,Barry Loudermilk,(R),4-Feb-26,Retiring,38.0,61.0,38.0,60.0,Rob Adkerson
+IA-02,REP_OPEN,REP,True,False,Ashley Hinson,(R),2-Sep-25,Running for Senate,44.0,54.0,47.0,51.0,
+IA-04,REP_OPEN,REP,True,False,Randy Feenstra,(R),28-Oct-25,Running for governor,34.0,65.0,36.0,62.0,
+KY-06,REP_OPEN,REP,True,False,Andy Barr,(R),22-Apr-25,Running for Senate,42.0,57.0,44.0,54.0,
+LA-05,REP_OPEN,REP,True,False,Julia Letlow,(R),20-Jan-26,Running for Senate,31.0,67.0,32.0,66.0,
+MI-10,REP_OPEN,REP,True,False,John James,(R),7-Apr-25,Running for governor,46.0,52.0,49.0,50.0,
+MO-06,REP_OPEN,REP,True,False,Sam Graves,(R),27-Mar-26,Retiring,,,,,Chris Stigall
+MT-01,REP_OPEN,REP,True,False,Ryan Zinke,(R),2-Mar-26,Retiring,43.0,54.0,45.0,52.0,Aaron Flint
+NE-02,REP_OPEN,REP,True,False,Don Bacon,(R),27-Jun-25,Retiring,52.0,47.0,52.0,46.0,
+NV-02,REP_OPEN,REP,True,False,Mark Amodei,(R),6-Feb-26,Retiring,42.0,56.0,43.0,54.0,James Settelmeyer
+NY-21,REP_OPEN,REP,True,False,Elise Stefanik,(R),7-Nov-25,Retiring,39.0,60.0,41.0,57.0,
+OK-01,REP_OPEN,REP,True,False,Kevin Hern,(R),11-Mar-26,Running for Senate,38.0,60.0,38.0,59.0,
+SC-01,REP_OPEN,REP,True,False,Nancy Mace,(R),4-Aug-25,Running for governor,43.0,56.0,45.0,53.0,
+SC-05,REP_OPEN,REP,True,False,Ralph Norman,(R),27-Jul-25,Running for governor,38.0,61.0,40.0,58.0,Wes Climer
+SD-AL,REP_OPEN,REP,True,False,Dusty Johnson,(R),30-Jun-25,Running for governor,34.0,63.0,36.0,62.0,
+TN-06,REP_OPEN,REP,True,False,John Rose,(R),20-Mar-25,Running for governor,32.0,67.0,34.0,64.0,
+TX-02,REP_OPEN,REP,True,False,Dan Crenshaw,(R),3-Mar-26,Lost primary,,,,,
+TX-08,REP_OPEN,REP,True,False,Morgan Luttrell,(R),11-Sep-25,Retiring,,,,,Jessica Hart Steinmann
+TX-10,REP_OPEN,REP,True,False,Michael McCaul,(R),14-Sep-25,Retiring,,,,,
+TX-19,REP_OPEN,REP,True,False,Jodey Arrington,(R),11-Nov-25,Retiring,,,,,
+TX-21,REP_OPEN,REP,True,False,Chip Roy,(R),21-Aug-25,Running for attorney general,,,,,
+TX-22,REP_OPEN,REP,True,False,Troy Nehls,(R),29-Nov-25,Retiring,,,,,Trever Nehls
+TX-23,REP_OPEN,REP,True,False,Tony Gonzales,(R),5-Mar-26,Retiring,,,,,
+TX-38,REP_OPEN,REP,True,False,Wesley Hunt,(R),6-Oct-25,Running for Senate,,,,,
+UT-04,REP_OPEN,REP,True,False,Burgess Owens,(R),4-Mar-26,Retiring,,,,,
+WA-04,REP_OPEN,REP,True,False,Dan Newhouse,(R),17-Dec-25,Retiring,38.0,59.0,40.0,57.0,
+WI-07,REP_OPEN,REP,True,False,Tom Tiffany,(R),23-Sep-25,Running for governor,38.0,61.0,39.0,59.0,
+WY-AL,REP_OPEN,REP,True,False,Harriet Hageman,(R),23-Dec-25,Running for Senate,26.0,72.0,27.0,70.0,
+CA-06,DEM_OPEN,DEM,True,False,Ami Bera,(D),5-Nov-25,Running for CA-03,,,,,
+CA-11,DEM_OPEN,DEM,True,False,Nancy Pelosi,(D),6-Nov-25,Retiring,,,,,
+CA-14,DEM_OPEN,DEM,True,False,Eric Swalwell,(D),21-Nov-25,Running for governor,,,,,
+CA-26,DEM_OPEN,DEM,True,False,Julia Brownley,(D),8-Jan-26,Retiring,,,,,Jacqui Irwin
+CA-38,DEM_OPEN,DEM,True,False,Linda Sanchez,(D),10-Nov-25,Running for CA-41,,,,,
+IL-02,DEM_OPEN,DEM,True,False,Robin Kelly,(D),6-May-25,Running for Senate,66.0,33.0,69.0,29.0,
+IL-04,DEM_OPEN,DEM,True,False,Chuy Garcia,(D),4-Nov-25,Retiring,63.0,35.0,72.0,26.0,Patty Garcia
+IL-07,DEM_OPEN,DEM,True,False,Danny Davis,(D),31-Jul-25,Retiring,82.0,17.0,86.0,13.0,La Shawn Ford
+IL-08,DEM_OPEN,DEM,True,False,Raja Krishnamoorthi,(D),7-May-25,Running for Senate,53.0,46.0,57.0,41.0,
+IL-09,DEM_OPEN,DEM,True,False,Jan Schakowsky,(D),5-May-25,Retiring,68.0,31.0,70.0,28.0,Daniel Biss
+MA-06,DEM_OPEN,DEM,True,False,Seth Moulton,(D),15-Oct-25,Running for Senate,59.0,39.0,63.0,35.0,
+MD-05,DEM_OPEN,DEM,True,False,Steny Hoyer,(D),7-Jan-26,Retiring,66.0,32.0,67.0,31.0,Adrian Boafo
+ME-02,DEM_OPEN,DEM,True,False,Jared Golden,(D),5-Nov-25,Retiring,44.0,54.0,45.0,52.0,
+MI-11,DEM_OPEN,DEM,True,False,Haley Stevens,(D),22-Apr-25,Running for Senate,57.0,41.0,59.0,39.0,
+MN-02,DEM_OPEN,DEM,True,False,Angie Craig,(D),29-Apr-25,Running for Senate,52.0,46.0,53.0,45.0,
+NH-01,DEM_OPEN,DEM,True,False,Chris Pappas,(D),3-Apr-25,Running for Senate,51.0,49.0,52.0,46.0,
+NJ-12,DEM_OPEN,DEM,True,False,Bonnie Watson Coleman,(D),10-Nov-25,Retiring,61.0,37.0,67.0,32.0,
+NY-07,DEM_OPEN,DEM,True,False,Nydia Velazquez,(D),20-Nov-25,Retiring,72.0,26.0,80.0,19.0,Antonio Reynoso
+NY-12,DEM_OPEN,DEM,True,False,Jerry Nadler,(D),1-Sep-25,Retiring,81.0,17.0,85.0,14.0,Micah Lasher
+PA-03,DEM_OPEN,DEM,True,False,Dwight Evans,(D),30-Jun-25,Retiring,88.0,11.0,90.0,9.0,Ala Stanford
+TX-09,DEM_OPEN,DEM,True,False,Al Green,(D),26-Aug-25,Running for TX-18,,,,,
+TX-30,DEM_OPEN,DEM,True,False,Jasmine Crockett,(D),8-Dec-25,Running for Senate,,,,,
+TX-32,DEM_OPEN,DEM,True,False,Julie Johnson,(D),4-Sep-25,Running for TX-33,,,,,
+TX-33,DEM_OPEN,DEM,True,False,Marc Veasey,(D),8-Dec-25,Retiring,,,,,
+TX-35,DEM_OPEN,DEM,True,False,Greg Casar,(D),25-Aug-25,Running for TX-37,,,,,
+TX-37,DEM_OPEN,DEM,True,False,Lloyd Doggett,(D),21-Aug-25,Retiring,,,,,
+CA-01,NONCONTRIB,,False,True,Doug LaMalfa,(R),6-Jan-26,Died,36.0,61.0,39.0,58.0,
+GA-14,NONCONTRIB,,False,True,Marjorie Taylor Greene,(R),21-Nov-25,Resigned,31.0,68.0,31.0,68.0,
+NJ-11,NONCONTRIB,,False,True,Mikie Sherrill,(D),4-Nov-25,Elected governor,53.0,45.0,58.0,41.0,
+AZ-07,NONCONTRIB,,False,True,Raul Grijalva,(D),13-Mar-25,"Died, filled by special",60.0,38.0,66.0,33.0,
+FL-01,NONCONTRIB,,False,True,Matt Gaetz,(R),13-Nov-24,"Unsuccessfully nominated for AG, filled by special",31.0,68.0,33.0,65.0,Jimmy Patronis
+FL-06,NONCONTRIB,,False,True,Michael Waltz,(R),12-Nov-24,"Named national security advisor, filled by special",35.0,65.0,38.0,61.0,Randy Fine
+TN-07,NONCONTRIB,,False,True,Mark Green,(R),9-Jun-25,"Resigned, filled by special",38.0,60.0,41.0,56.0,Matt Van Epps
+TX-18,NONCONTRIB,,False,True,Sylvester Turner,(D),5-Mar-25,"Died, filled by special",69.0,29.0,74.0,25.0,
+VA-11,NONCONTRIB,,False,True,Gerry Connolly,(D),21-May-25,"Died, filled by special",66.0,31.0,70.0,29.0,James Walkinshaw
+NY-21,NONCONTRIB,,False,True,Elise Stefanik,(R),11-Nov-24,Nominated for U.N. ambassador,27.0,,,,
