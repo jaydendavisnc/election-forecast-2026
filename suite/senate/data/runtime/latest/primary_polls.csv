@@ -1,0 +1,127 @@
+state_abbr,party,stage,end_date,sample_size,population,pollster,candidate,share_pct,state_name
+GA,REP,primary,2026-03-09,560,LV,JMC Analytics,Mike Collins,31,Georgia
+GA,REP,primary,2026-03-09,560,LV,JMC Analytics,Buddy Carter,11,Georgia
+GA,REP,primary,2026-03-09,560,LV,JMC Analytics,Derek Dooley,13,Georgia
+GA,REP,primary,2026-03-09,560,LV,JMC Analytics,Other,45,Georgia
+GA,REP,primary,2026-03-05,453,LV,Emerson College,Mike Collins,30,Georgia
+GA,REP,primary,2026-03-05,453,LV,Emerson College,Buddy Carter,16,Georgia
+GA,REP,primary,2026-03-05,453,LV,Emerson College,Derek Dooley,10,Georgia
+GA,REP,primary,2026-03-05,453,LV,Emerson College,Other,44,Georgia
+GA,REP,primary,2026-02-19,1337,LV,Quantus Insights,Mike Collins,36,Georgia
+GA,REP,primary,2026-02-19,1337,LV,Quantus Insights,Buddy Carter,11,Georgia
+GA,REP,primary,2026-02-19,1337,LV,Quantus Insights,Derek Dooley,9,Georgia
+GA,REP,primary,2026-02-19,1337,LV,Quantus Insights,Other,44,Georgia
+GA,REP,primary,2026-01-21,600,LV,Public Opinion Strategies,Mike Collins,32,Georgia
+GA,REP,primary,2026-01-21,600,LV,Public Opinion Strategies,Buddy Carter,16,Georgia
+GA,REP,primary,2026-01-21,600,LV,Public Opinion Strategies,Derek Dooley,12,Georgia
+GA,REP,primary,2026-01-21,600,LV,Public Opinion Strategies,Other,40,Georgia
+GA,REP,primary,2025-10-31,1000,LV,University of Georgia,Mike Collins,30,Georgia
+GA,REP,primary,2025-10-31,1000,LV,University of Georgia,Buddy Carter,20,Georgia
+GA,REP,primary,2025-10-31,1000,LV,University of Georgia,Derek Dooley,12,Georgia
+GA,REP,primary,2025-10-31,1000,LV,University of Georgia,Other,38,Georgia
+GA,REP,primary,2025-10-27,1320,RV,Quantus Insights,Mike Collins,28,Georgia
+GA,REP,primary,2025-10-27,1320,RV,Quantus Insights,Buddy Carter,16,Georgia
+GA,REP,primary,2025-10-27,1320,RV,Quantus Insights,Derek Dooley,16,Georgia
+GA,REP,primary,2025-10-27,1320,RV,Quantus Insights,Other,40,Georgia
+NH,REP,primary,2026-03-26,524,LV,Emerson College,Chris Sununu,48,New Hampshire
+NH,REP,primary,2026-03-26,524,LV,Emerson College,Scott Brown,19,New Hampshire
+NH,REP,primary,2026-03-26,524,LV,Emerson College,Other,33,New Hampshire
+NH,REP,primary,2026-03-23,673,RV,Saint Anselm College,Chris Sununu,49,New Hampshire
+NH,REP,primary,2026-03-23,673,RV,Saint Anselm College,Scott Brown,28,New Hampshire
+NH,REP,primary,2026-03-23,673,RV,Saint Anselm College,Other,23,New Hampshire
+NH,REP,primary,2026-01-21,967,LV,University of New Hampshire,Chris Sununu,48,New Hampshire
+NH,REP,primary,2026-01-21,967,LV,University of New Hampshire,Scott Brown,25,New Hampshire
+NH,REP,primary,2026-01-21,967,LV,University of New Hampshire,Other,27,New Hampshire
+NH,REP,primary,2025-11-24,1000,RV,Saint Anselm College,Chris Sununu,39,New Hampshire
+NH,REP,primary,2025-11-24,1000,RV,Saint Anselm College,Scott Brown,30,New Hampshire
+NH,REP,primary,2025-11-24,1000,RV,Saint Anselm College,Other,31,New Hampshire
+NH,REP,primary,2025-11-24,593,LV,University of New Hampshire,Chris Sununu,40,New Hampshire
+NH,REP,primary,2025-11-24,593,LV,University of New Hampshire,Scott Brown,27,New Hampshire
+NH,REP,primary,2025-11-24,593,LV,University of New Hampshire,Other,33,New Hampshire
+NH,REP,primary,2025-09-29,555,LV,University of New Hampshire,Chris Sununu,42,New Hampshire
+NH,REP,primary,2025-09-29,555,LV,University of New Hampshire,Scott Brown,19,New Hampshire
+NH,REP,primary,2025-09-29,555,LV,University of New Hampshire,Chuck Morse/Innis/Other,39,New Hampshire
+NH,REP,primary,2025-09-15,346,LV,co/efficient,Chris Sununu,40,New Hampshire
+NH,REP,primary,2025-09-15,346,LV,co/efficient,Scott Brown,23,New Hampshire
+NH,REP,primary,2025-09-15,346,LV,co/efficient,Chuck Morse/Innis/Other,37,New Hampshire
+NH,REP,primary,2025-09-05,791,RV,Saint Anselm College,Scott Brown,48,New Hampshire
+NH,REP,primary,2025-09-05,791,RV,Saint Anselm College,Other,52,New Hampshire
+NH,DEM,primary,2026-03-23,691,RV,Saint Anselm College,Chris Pappas,71,New Hampshire
+NH,DEM,primary,2026-03-23,691,RV,Saint Anselm College,Maura Sullivan,3,New Hampshire
+NH,DEM,primary,2026-03-23,691,RV,Saint Anselm College,Other,26,New Hampshire
+NH,DEM,primary,2026-01-21,893,LV,University of New Hampshire,Chris Pappas,65,New Hampshire
+NH,DEM,primary,2026-01-21,893,LV,University of New Hampshire,Maura Sullivan,2,New Hampshire
+NH,DEM,primary,2026-01-21,893,LV,University of New Hampshire,Other,33,New Hampshire
+NH,DEM,primary,2025-11-24,1015,RV,Saint Anselm College,Chris Pappas,64,New Hampshire
+NH,DEM,primary,2025-11-24,1015,RV,Saint Anselm College,Maura Sullivan,2,New Hampshire
+NH,DEM,primary,2025-11-24,1015,RV,Saint Anselm College,Other,34,New Hampshire
+NH,DEM,primary,2025-11-24,521,LV,University of New Hampshire,Chris Pappas,57,New Hampshire
+NH,DEM,primary,2025-11-24,521,LV,University of New Hampshire,Maura Sullivan,5,New Hampshire
+NH,DEM,primary,2025-11-24,521,LV,University of New Hampshire,Other,38,New Hampshire
+TX,REP,runoff,2026-03-30,600,LV,GQR,Ken Paxton,47,Texas
+TX,REP,runoff,2026-03-30,600,LV,GQR,John Cornyn,42,Texas
+TX,REP,runoff,2026-03-30,600,LV,GQR,Other,11,Texas
+TX,REP,runoff,2026-03-24,1218,LV,Quantus Insights,Ken Paxton,49,Texas
+TX,REP,runoff,2026-03-24,1218,LV,Quantus Insights,John Cornyn,41,Texas
+TX,REP,runoff,2026-03-24,1218,LV,Quantus Insights,Other,10,Texas
+TX,REP,runoff,2026-03-19,811,RV,Change Research,Ken Paxton,42,Texas
+TX,REP,runoff,2026-03-19,811,RV,Change Research,John Cornyn,39,Texas
+TX,REP,runoff,2026-03-19,811,RV,Change Research,Other,19,Texas
+TX,REP,runoff,2026-03-13,565,LV,Public Policy Polling,Ken Paxton,45,Texas
+TX,REP,runoff,2026-03-13,565,LV,Public Policy Polling,John Cornyn,42,Texas
+TX,REP,runoff,2026-03-13,565,LV,Public Policy Polling,Other,13,Texas
+TX,REP,runoff,2026-03-09,781,LV,Texas Public Opinion Research,Ken Paxton,49,Texas
+TX,REP,runoff,2026-03-09,781,LV,Texas Public Opinion Research,John Cornyn,41,Texas
+TX,REP,runoff,2026-03-09,781,LV,Texas Public Opinion Research,Other,10,Texas
+ME,DEM,primary,2026-03-26,530,LV,Emerson College,Natasha Platner,55,Maine
+ME,DEM,primary,2026-03-26,530,LV,Emerson College,Janet Mills,28,Maine
+ME,DEM,primary,2026-03-26,530,LV,Emerson College,Other,17,Maine
+ME,DEM,primary,2026-03-09,450,LV,Quantus Insights,Natasha Platner,43,Maine
+ME,DEM,primary,2026-03-09,450,LV,Quantus Insights,Janet Mills,38,Maine
+ME,DEM,primary,2026-03-09,450,LV,Quantus Insights,Other,19,Maine
+ME,DEM,primary,2026-03-04,367,LV,Pan Atlantic Research,Natasha Platner,46,Maine
+ME,DEM,primary,2026-03-04,367,LV,Pan Atlantic Research,Janet Mills,39,Maine
+ME,DEM,primary,2026-03-04,367,LV,Pan Atlantic Research,Other,15,Maine
+ME,DEM,primary,2026-02-24,478,LV,University of New Hampshire,Natasha Platner,64,Maine
+ME,DEM,primary,2026-02-24,478,LV,University of New Hampshire,Janet Mills,26,Maine
+ME,DEM,primary,2026-02-24,478,LV,University of New Hampshire,Other,10,Maine
+ME,DEM,primary,2025-12-10,318,LV,Pan Atlantic Research,Natasha Platner,37,Maine
+ME,DEM,primary,2025-12-10,318,LV,Pan Atlantic Research,Janet Mills,47,Maine
+ME,DEM,primary,2025-12-10,318,LV,Pan Atlantic Research,Other,16,Maine
+ME,DEM,primary,2025-11-12,400,LV,Maine People's Resource Center,Natasha Platner,41,Maine
+ME,DEM,primary,2025-11-12,400,LV,Maine People's Resource Center,Janet Mills,39,Maine
+ME,DEM,primary,2025-11-12,400,LV,Maine People's Resource Center,Other,20,Maine
+ME,DEM,primary,2025-10-23,506,LV,University of New Hampshire,Natasha Platner,58,Maine
+ME,DEM,primary,2025-10-23,506,LV,University of New Hampshire,Janet Mills,24,Maine
+ME,DEM,primary,2025-10-23,506,LV,University of New Hampshire,Other,18,Maine
+MI,DEM,primary,2026-03-12,600,LV,Upswing Research,Haley Stevens,27,Michigan
+MI,DEM,primary,2026-03-12,600,LV,Upswing Research,Mallory McMorrow,25,Michigan
+MI,DEM,primary,2026-03-12,600,LV,Upswing Research,Abdul El-Sayed,23,Michigan
+MI,DEM,primary,2026-03-12,600,LV,Upswing Research,Other,25,Michigan
+MI,DEM,primary,2026-01-29,491,LV,Emerson College,Haley Stevens,17,Michigan
+MI,DEM,primary,2026-01-29,491,LV,Emerson College,Mallory McMorrow,22,Michigan
+MI,DEM,primary,2026-01-29,491,LV,Emerson College,Abdul El-Sayed,16,Michigan
+MI,DEM,primary,2026-01-29,491,LV,Emerson College,Other,45,Michigan
+MI,DEM,primary,2025-12-02,261,LV,Mitchell Research,Haley Stevens,27,Michigan
+MI,DEM,primary,2025-12-02,261,LV,Mitchell Research,Mallory McMorrow,24,Michigan
+MI,DEM,primary,2025-12-02,261,LV,Mitchell Research,Abdul El-Sayed,16,Michigan
+MI,DEM,primary,2025-12-02,261,LV,Mitchell Research,Other,33,Michigan
+MI,DEM,primary,2025-11-06,287,LV,Rosetta Stone,Haley Stevens,26,Michigan
+MI,DEM,primary,2025-11-06,287,LV,Rosetta Stone,Mallory McMorrow,25,Michigan
+MI,DEM,primary,2025-11-06,287,LV,Rosetta Stone,Abdul El-Sayed,20,Michigan
+MI,DEM,primary,2025-11-06,287,LV,Rosetta Stone,Other,29,Michigan
+MA,DEM,primary,2026-02-24,352,LV,University of New Hampshire,Ed Markey,35,Massachusetts
+MA,DEM,primary,2026-02-24,352,LV,University of New Hampshire,Seth Moulton,23,Massachusetts
+MA,DEM,primary,2026-02-24,352,LV,University of New Hampshire,Andrea Campbell/Other,42,Massachusetts
+MA,DEM,primary,2025-11-25,226,LV,Suffolk University,Ed Markey,45,Massachusetts
+MA,DEM,primary,2025-11-25,226,LV,Suffolk University,Seth Moulton,22,Massachusetts
+MA,DEM,primary,2025-11-25,226,LV,Suffolk University,Other,33,Massachusetts
+MA,DEM,primary,2025-11-24,343,LV,University of New Hampshire,Ed Markey,34,Massachusetts
+MA,DEM,primary,2025-11-24,343,LV,University of New Hampshire,Seth Moulton,25,Massachusetts
+MA,DEM,primary,2025-11-24,343,LV,University of New Hampshire,Other,41,Massachusetts
+MA,DEM,primary,2025-11-05,652,LV,Data for Progress,Ed Markey,53,Massachusetts
+MA,DEM,primary,2025-11-05,652,LV,Data for Progress,Seth Moulton,34,Massachusetts
+MA,DEM,primary,2025-11-05,652,LV,Data for Progress,Other,13,Massachusetts
+MA,DEM,primary,2025-11-03,416,LV,UMass Amherst,Ed Markey,51,Massachusetts
+MA,DEM,primary,2025-11-03,416,LV,UMass Amherst,Seth Moulton,28,Massachusetts
+MA,DEM,primary,2025-11-03,416,LV,UMass Amherst,Other,21,Massachusetts

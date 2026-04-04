@@ -1,0 +1,98 @@
+state_abbr,stage,end_date,sample_size,population,pollster,dem_candidate,rep_candidate,dem_pct,rep_pct,other_pct,margin_dem,valid_current,state_name,matchup
+AK,general,2026-01-13,1988,RV,Alaska Survey Research,Mary Peltola,Dan Sullivan,48,46,6,2,True,Alaska,Mary Peltola vs Dan Sullivan
+AK,general,2025-10-21,1908,LV,Alaska Survey Research,Mary Peltola,Dan Sullivan,48,46,6,2,True,Alaska,Mary Peltola vs Dan Sullivan
+AK,general,2025-08-08,678,LV,Data for Progress,Mary Peltola,Dan Sullivan,45,46,9,-1,True,Alaska,Mary Peltola vs Dan Sullivan
+FL,general,2026-03-04,786,LV,University of North Florida,Angie Nixon,Ashley Moody,38,46,16,-8,True,Florida,Angie Nixon vs Ashley Moody
+FL,general,2026-03-04,786,LV,University of North Florida,Alexander Vindman,Ashley Moody,38,45,17,-7,True,Florida,Alexander Vindman vs Ashley Moody
+GA,general,2026-03-05,1000,LV,Emerson College,Jon Ossoff,Buddy Carter,47,44,9,3,True,Georgia,Jon Ossoff vs Buddy Carter
+GA,general,2025-09-15,624,LV,Quantus Insights,Jon Ossoff,Buddy Carter,40,37,23,3,True,Georgia,Jon Ossoff vs Buddy Carter
+GA,general,2025-05-22,800,LV,Cygnal,Jon Ossoff,Buddy Carter,46,42,12,4,True,Georgia,Jon Ossoff vs Buddy Carter
+GA,general,2025-02-11,600,LV,Tyson Group,Jon Ossoff,Buddy Carter,47,39,14,8,True,Georgia,Jon Ossoff vs Buddy Carter
+GA,general,2026-03-05,1000,LV,Emerson College,Jon Ossoff,Mike Collins,48,43,9,5,True,Georgia,Jon Ossoff vs Mike Collins
+GA,general,2025-09-15,624,LV,Quantus Insights,Jon Ossoff,Mike Collins,38,38,24,0,True,Georgia,Jon Ossoff vs Mike Collins
+GA,general,2025-05-22,800,LV,Cygnal,Jon Ossoff,Mike Collins,46,43,11,3,True,Georgia,Jon Ossoff vs Mike Collins
+GA,general,2026-03-05,1000,LV,Emerson College,Jon Ossoff,Derek Dooley,49,41,10,8,True,Georgia,Jon Ossoff vs Derek Dooley
+GA,general,2025-09-15,624,LV,Quantus Insights,Jon Ossoff,Derek Dooley,42,35,23,7,True,Georgia,Jon Ossoff vs Derek Dooley
+MA,general,2026-02-24,620,LV,University of New Hampshire,Ed Markey,John Deaton,56,27,17,29,True,Massachusetts,Ed Markey vs John Deaton
+MA,general,2026-02-24,620,LV,University of New Hampshire,Seth Moulton,John Deaton,59,23,18,36,True,Massachusetts,Seth Moulton vs John Deaton
+ME,general,2026-03-26,1075,LV,Emerson College,Natasha Platner,Susan Collins,48,41,11,7,True,Maine,Natasha Platner vs Susan Collins
+ME,general,2026-03-10,600,LV,OnMessage,Natasha Platner,Susan Collins,44,42,14,2,True,Maine,Natasha Platner vs Susan Collins
+ME,general,2026-03-09,800,LV,Quantus Insights,Natasha Platner,Susan Collins,49,42,9,7,True,Maine,Natasha Platner vs Susan Collins
+ME,general,2026-03-04,810,LV,Pan Atlantic Research,Natasha Platner,Susan Collins,44,40,16,4,True,Maine,Natasha Platner vs Susan Collins
+ME,general,2026-02-24,1120,LV,University of New Hampshire,Natasha Platner,Susan Collins,49,38,13,11,True,Maine,Natasha Platner vs Susan Collins
+ME,general,2025-12-10,820,LV,Pan Atlantic Research,Natasha Platner,Susan Collins,43,42,15,1,True,Maine,Natasha Platner vs Susan Collins
+ME,general,2025-11-12,783,RV,Maine People's Resource Center,Natasha Platner,Susan Collins,45,41,14,4,True,Maine,Natasha Platner vs Susan Collins
+ME,general,2026-03-26,1075,LV,Emerson College,Janet Mills,Susan Collins,46,43,11,3,True,Maine,Janet Mills vs Susan Collins
+ME,general,2026-03-10,600,LV,OnMessage,Janet Mills,Susan Collins,42,42,16,0,True,Maine,Janet Mills vs Susan Collins
+ME,general,2026-03-09,800,LV,Quantus Insights,Janet Mills,Susan Collins,43,45,12,-2,True,Maine,Janet Mills vs Susan Collins
+ME,general,2026-03-04,810,LV,Pan Atlantic Research,Janet Mills,Susan Collins,44,44,12,0,True,Maine,Janet Mills vs Susan Collins
+ME,general,2026-02-24,1120,LV,University of New Hampshire,Janet Mills,Susan Collins,41,40,19,1,True,Maine,Janet Mills vs Susan Collins
+ME,general,2025-12-10,820,LV,Pan Atlantic Research,Janet Mills,Susan Collins,43,43,14,0,True,Maine,Janet Mills vs Susan Collins
+ME,general,2025-11-12,783,RV,Maine People's Resource Center,Janet Mills,Susan Collins,42,46,12,-4,True,Maine,Janet Mills vs Susan Collins
+MI,general,2026-01-29,1000,LV,Emerson College,Haley Stevens,Mike Rogers,47,42,11,5,True,Michigan,Haley Stevens vs Mike Rogers
+MI,general,2026-01-14,600,LV,Glengariff Group,Haley Stevens,Mike Rogers,44,44,12,0,True,Michigan,Haley Stevens vs Mike Rogers
+MI,general,2025-12-02,616,LV,Mitchell Research,Haley Stevens,Mike Rogers,40,42,18,-2,True,Michigan,Haley Stevens vs Mike Rogers
+MI,general,2025-11-14,600,LV,EPIC-MRA,Haley Stevens,Mike Rogers,44,42,14,2,True,Michigan,Haley Stevens vs Mike Rogers
+MI,general,2025-11-06,637,LV,Rosetta Stone,Haley Stevens,Mike Rogers,40,47,13,-7,True,Michigan,Haley Stevens vs Mike Rogers
+MI,general,2025-05-28,600,RV,Glengariff Group,Haley Stevens,Mike Rogers,45,44,11,1,True,Michigan,Haley Stevens vs Mike Rogers
+MI,general,2025-03-08,600,RV,Target Insyght,Haley Stevens,Mike Rogers,35,41,24,-6,True,Michigan,Haley Stevens vs Mike Rogers
+MI,general,2026-01-29,1000,LV,Emerson College,Mallory McMorrow,Mike Rogers,46,43,11,3,True,Michigan,Mallory McMorrow vs Mike Rogers
+MI,general,2026-01-14,600,LV,Glengariff Group,Mallory McMorrow,Mike Rogers,42,46,12,-4,True,Michigan,Mallory McMorrow vs Mike Rogers
+MI,general,2025-12-02,616,LV,Mitchell Research,Mallory McMorrow,Mike Rogers,38,44,18,-6,True,Michigan,Mallory McMorrow vs Mike Rogers
+MI,general,2025-11-14,600,LV,EPIC-MRA,Mallory McMorrow,Mike Rogers,43,42,15,1,True,Michigan,Mallory McMorrow vs Mike Rogers
+MI,general,2025-11-06,637,LV,Rosetta Stone,Mallory McMorrow,Mike Rogers,39,46,15,-7,True,Michigan,Mallory McMorrow vs Mike Rogers
+MI,general,2025-05-28,600,RV,Glengariff Group,Mallory McMorrow,Mike Rogers,42,46,12,-4,True,Michigan,Mallory McMorrow vs Mike Rogers
+MI,general,2026-01-29,1000,LV,Emerson College,Abdul El-Sayed,Mike Rogers,43,43,14,0,True,Michigan,Abdul El-Sayed vs Mike Rogers
+MI,general,2026-01-14,600,LV,Glengariff Group,Abdul El-Sayed,Mike Rogers,42,48,10,-6,True,Michigan,Abdul El-Sayed vs Mike Rogers
+MI,general,2025-12-02,616,LV,Mitchell Research,Abdul El-Sayed,Mike Rogers,38,41,21,-3,True,Michigan,Abdul El-Sayed vs Mike Rogers
+MI,general,2025-11-06,637,LV,Rosetta Stone,Abdul El-Sayed,Mike Rogers,31,45,24,-14,True,Michigan,Abdul El-Sayed vs Mike Rogers
+MI,general,2025-05-28,600,RV,Glengariff Group,Abdul El-Sayed,Mike Rogers,41,47,12,-6,True,Michigan,Abdul El-Sayed vs Mike Rogers
+MN,general,2026-02-11,1000,LV,Emerson College,Peggy Flanagan,Adam Tafoya,47,41,12,6,True,Minnesota,Peggy Flanagan vs Adam Tafoya
+MN,general,2026-02-11,1000,LV,Emerson College,Angie Craig,Adam Tafoya,47,40,13,7,True,Minnesota,Angie Craig vs Adam Tafoya
+MT,general,2026-02-23,607,LV,American Pulse,Democratic nominee,Steve Daines,37,56,7,-19,False,Montana,Democratic nominee vs Steve Daines
+NC,general,2026-03-31,871,LV,Catawba College,Roy Cooper,Michael Whatley,48,34,18,14,True,North Carolina,Roy Cooper vs Michael Whatley
+NC,general,2026-03-27,800,LV,Nexus/Strategic Partners Solutions,Roy Cooper,Michael Whatley,50,32,18,18,True,North Carolina,Roy Cooper vs Michael Whatley
+NC,general,2026-03-26,600,LV,Harper Polling,Roy Cooper,Michael Whatley,49,41,10,8,True,North Carolina,Roy Cooper vs Michael Whatley
+NC,general,2026-03-16,556,RV,Public Policy Polling,Roy Cooper,Michael Whatley,47,44,9,3,True,North Carolina,Roy Cooper vs Michael Whatley
+NC,general,2026-02-20,1069,RV,Change Research,Roy Cooper,Michael Whatley,50,40,10,10,True,North Carolina,Roy Cooper vs Michael Whatley
+NC,general,2025-11-13,600,LV,Harper Polling,Roy Cooper,Michael Whatley,47,39,14,8,True,North Carolina,Roy Cooper vs Michael Whatley
+NC,general,2025-09-18,600,LV,Harper Polling,Roy Cooper,Michael Whatley,46,42,12,4,True,North Carolina,Roy Cooper vs Michael Whatley
+NC,general,2025-08-01,1000,RV,Emerson College,Roy Cooper,Michael Whatley,47,41,12,6,True,North Carolina,Roy Cooper vs Michael Whatley
+NC,general,2025-07-31,600,LV,Victory Insights,Roy Cooper,Michael Whatley,43,40,17,3,True,North Carolina,Roy Cooper vs Michael Whatley
+NH,general,2026-03-26,1100,LV,Emerson College,Chris Pappas,Scott Brown,48,39,13,9,True,New Hampshire,Chris Pappas vs Scott Brown
+NH,general,2026-03-23,1491,RV,Saint Anselm College,Chris Pappas,Scott Brown,47,38,15,9,True,New Hampshire,Chris Pappas vs Scott Brown
+NH,general,2026-01-21,2053,LV,University of New Hampshire,Chris Pappas,Scott Brown,52,42,6,10,True,New Hampshire,Chris Pappas vs Scott Brown
+NH,general,2026-01-04,603,RV,NH Journal,Chris Pappas,Scott Brown,46,28,26,18,True,New Hampshire,Chris Pappas vs Scott Brown
+NH,general,2025-11-24,2212,RV,University of New Hampshire,Chris Pappas,Scott Brown,44,36,20,8,True,New Hampshire,Chris Pappas vs Scott Brown
+NH,general,2025-10-15,1034,LV,co/efficient,Chris Pappas,Scott Brown,49,39,12,10,True,New Hampshire,Chris Pappas vs Scott Brown
+NH,general,2025-09-29,1235,LV,University of New Hampshire,Chris Pappas,Scott Brown,52,37,11,15,True,New Hampshire,Chris Pappas vs Scott Brown
+NH,general,2025-09-15,904,LV,co/efficient,Chris Pappas,Scott Brown,50,40,10,10,True,New Hampshire,Chris Pappas vs Scott Brown
+NH,general,2025-09-05,1776,RV,Saint Anselm College,Chris Pappas,Scott Brown,48,37,15,11,True,New Hampshire,Chris Pappas vs Scott Brown
+NH,general,2026-03-26,1100,LV,Emerson College,Chris Pappas,Chris Sununu,45,44,11,1,True,New Hampshire,Chris Pappas vs Chris Sununu
+NH,general,2026-03-23,1491,RV,Saint Anselm College,Chris Pappas,Chris Sununu,46,43,11,3,True,New Hampshire,Chris Pappas vs Chris Sununu
+NH,general,2026-01-21,2053,LV,University of New Hampshire,Chris Pappas,Chris Sununu,50,45,5,5,True,New Hampshire,Chris Pappas vs Chris Sununu
+NH,general,2026-01-04,603,RV,NH Journal,Chris Pappas,Chris Sununu,42,36,22,6,True,New Hampshire,Chris Pappas vs Chris Sununu
+NH,general,2025-11-24,2212,RV,University of New Hampshire,Chris Pappas,Chris Sununu,44,41,15,3,True,New Hampshire,Chris Pappas vs Chris Sununu
+NH,general,2025-10-15,1034,LV,co/efficient,Chris Pappas,Chris Sununu,45,42,13,3,True,New Hampshire,Chris Pappas vs Chris Sununu
+NH,general,2025-09-29,1235,LV,University of New Hampshire,Chris Pappas,Chris Sununu,49,43,8,6,True,New Hampshire,Chris Pappas vs Chris Sununu
+NH,general,2025-09-15,904,LV,co/efficient,Chris Pappas,Chris Sununu,46,43,11,3,True,New Hampshire,Chris Pappas vs Chris Sununu
+OH,general,2026-03-16,809,LV,Quantus Insights,Sherrod Brown,Jon Husted,44,46,10,-2,True,Ohio,Sherrod Brown vs Jon Husted
+OH,general,2026-03-10,1343,LV,EMC Research,Sherrod Brown,Jon Husted,51,47,2,4,True,Ohio,Sherrod Brown vs Jon Husted
+OH,general,2026-03-10,600,LV,OnMessage,Sherrod Brown,Jon Husted,47,45,8,2,True,Ohio,Sherrod Brown vs Jon Husted
+OH,general,2025-12-11,850,RV,Emerson College,Sherrod Brown,Jon Husted,46,49,5,-3,True,Ohio,Sherrod Brown vs Jon Husted
+OH,general,2025-10-17,800,RV,Bowling Green University,Sherrod Brown,Jon Husted,49,48,3,1,True,Ohio,Sherrod Brown vs Jon Husted
+OH,general,2025-08-22,1000,LV,Emerson College,Sherrod Brown,Jon Husted,44,50,6,-6,True,Ohio,Sherrod Brown vs Jon Husted
+OH,general,2025-04-29,800,RV,Bowling Green University,Sherrod Brown,Jon Husted,46,49,5,-3,True,Ohio,Sherrod Brown vs Jon Husted
+OH,general,2025-03-04,800,RV,Bowling Green University,Sherrod Brown,Jon Husted,41,47,12,-6,True,Ohio,Sherrod Brown vs Jon Husted
+TX,general,2026-02-09,1502,LV,University of Houston,James Talarico,Ken Paxton,44,46,10,-2,True,Texas,James Talarico vs Ken Paxton
+TX,general,2026-01-15,1165,LV,Emerson College,James Talarico,Ken Paxton,46,46,8,0,True,Texas,James Talarico vs Ken Paxton
+TX,general,2025-10-09,1183,LV,University of Houston/Texas Southern,James Talarico,Ken Paxton,46,49,5,-3,True,Texas,James Talarico vs Ken Paxton
+TX,general,2025-09-30,1032,RV,University of Texas - Tyler,James Talarico,Ken Paxton,37,38,25,-1,True,Texas,James Talarico vs Ken Paxton
+TX,general,2026-02-09,1502,LV,University of Houston,James Talarico,John Cornyn,43,44,13,-1,True,Texas,James Talarico vs John Cornyn
+TX,general,2026-01-15,1165,LV,Emerson College,James Talarico,John Cornyn,44,47,9,-3,True,Texas,James Talarico vs John Cornyn
+TX,general,2025-10-09,1183,LV,University of Houston/Texas Southern,James Talarico,John Cornyn,45,48,7,-3,True,Texas,James Talarico vs John Cornyn
+TX,general,2025-09-30,1032,RV,University of Texas - Tyler,James Talarico,John Cornyn,35,41,24,-6,True,Texas,James Talarico vs John Cornyn
+NC,general,2026-04-02,987,LV,Quantus Insights,Roy Cooper,Michael Whatley,49,44,7,5,True,North Carolina,Roy Cooper vs Michael Whatley
+FL,general,2026-04-02,1125,LV,Emerson College,Angie Nixon,Ashley Moody,36,47,17,-11,True,Florida,Angie Nixon vs Ashley Moody
+FL,general,2026-04-02,1125,LV,Emerson College,Alexander Vindman,Ashley Moody,38,46,16,-8,True,Florida,Alexander Vindman vs Ashley Moody
+FL,general,2026-04-02,1125,LV,Emerson College,Hector Mujica,Ashley Moody,38,45,17,-7,True,Florida,Hector Mujica vs Ashley Moody

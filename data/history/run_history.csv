@@ -1,0 +1,4 @@
+as_of_date,gop_control_prob,expected_gop_seats,median_gop_seats,gop_seat_q05,gop_seat_q25,gop_seat_q75,gop_seat_q95,dem_control_prob,generic_ballot_margin_dem,trump_net_approval,right_track_net,districts_polled,districts_open,national_mean_margin_dem,national_election_day_sd,visible_national_poll_rows,approval_adjustment_to_national_margin,trump_approve_pct,trump_disapprove_pct
+2026-04-01,0.1362,203.89504,204.0,182.0,196.0,212.0,224.0,0.8638,4.692166794560158,-17.4,-25.1,0,65,4.729946070382857,2.7636701997476063,183,0.0377792758226984,39.5,56.9
+2026-04-02,0.13584,203.89666,204.0,182.0,196.0,212.0,224.0,0.86416,4.692166794560158,-17.4,-25.1,0,65,4.729946070382857,2.7584366900425636,183,0.0377792758226984,39.5,56.9
+2026-04-03,0.1354,203.89666,204.0,183.0,196.0,212.0,224.0,0.8646,4.692166794560158,-17.4,-25.1,0,65,4.729946070382857,2.753193232044016,183,0.037779275822698466,39.5,56.9

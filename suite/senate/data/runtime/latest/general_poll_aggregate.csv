@@ -1,0 +1,22 @@
+state_abbr,dem_candidate,rep_candidate,poll_mean,poll_sd,poll_count,last_poll_date,weighted_other_pct,weighted_sample_size,state_name,matchup
+AK,Mary Peltola,Dan Sullivan,1.7854934090628527,3.0,3,2026-01-13,6.101619990254997,1919.7577449905564,Alaska,Mary Peltola vs Dan Sullivan
+FL,Alexander Vindman,Ashley Moody,-5.81,3.0,1,2026-03-04,17.0,786.0,Florida,Alexander Vindman vs Ashley Moody
+FL,Angie Nixon,Ashley Moody,-6.72,3.0,1,2026-03-04,16.0,786.0,Florida,Angie Nixon vs Ashley Moody
+GA,Jon Ossoff,Buddy Carter,2.7500525217838554,3.0,4,2026-03-05,9.642768500563186,978.8611705551486,Georgia,Jon Ossoff vs Buddy Carter
+GA,Jon Ossoff,Mike Collins,4.331911972990408,3.0,3,2026-03-05,9.619975815103444,980.9250053846204,Georgia,Jon Ossoff vs Mike Collins
+GA,Jon Ossoff,Derek Dooley,7.122009226319991,3.0,2,2026-03-05,10.560154728088472,983.798601710672,Georgia,Jon Ossoff vs Derek Dooley
+MA,Seth Moulton,John Deaton,29.520000000000007,3.4078136740670852,1,2026-02-24,18.0,620.0,Massachusetts,Seth Moulton vs John Deaton
+MA,Ed Markey,John Deaton,24.07,3.333796528789015,1,2026-02-24,17.0,620.0,Massachusetts,Ed Markey vs John Deaton
+ME,Natasha Platner,Susan Collins,5.66575985567364,3.0,7,2026-03-26,12.267628131334764,921.392019038826,Maine,Natasha Platner vs Susan Collins
+ME,Janet Mills,Susan Collins,0.5017096249501469,3.0,7,2026-03-26,13.26009416652013,913.2754286062078,Maine,Janet Mills vs Susan Collins
+MI,Haley Stevens,Mike Rogers,1.5809394357746682,3.0,7,2026-01-29,12.44319351827157,796.3111145724479,Michigan,Haley Stevens vs Mike Rogers
+MI,Mallory McMorrow,Mike Rogers,-0.4934075783722004,3.0,6,2026-01-29,12.688330169522999,797.8537345319678,Michigan,Mallory McMorrow vs Mike Rogers
+MI,Abdul El-Sayed,Mike Rogers,-2.7045265250047827,3.0,5,2026-01-29,14.25972319411102,805.6534655720243,Michigan,Abdul El-Sayed vs Mike Rogers
+MN,Angie Craig,Adam Tafoya,6.09,3.0,1,2026-02-11,13.000000000000002,1000.0,Minnesota,Angie Craig vs Adam Tafoya
+MN,Peggy Flanagan,Adam Tafoya,5.28,3.0,1,2026-02-11,12.0,999.9999999999999,Minnesota,Peggy Flanagan vs Adam Tafoya
+NC,Roy Cooper,Michael Whatley,8.994548677513633,3.0,9,2026-03-31,13.147835221887318,790.5714101462268,North Carolina,Roy Cooper vs Michael Whatley
+NH,Chris Pappas,Scott Brown,8.65522714081227,3.0,9,2026-03-26,11.869945501806917,1566.6374983594942,New Hampshire,Chris Pappas vs Scott Brown
+NH,Chris Pappas,Chris Sununu,3.0564417965984987,3.0,8,2026-03-26,9.64808853551362,1563.5729231322669,New Hampshire,Chris Pappas vs Chris Sununu
+OH,Sherrod Brown,Jon Husted,1.710882078202155,3.0,8,2026-03-16,4.620682013516869,1077.879876883582,Ohio,Sherrod Brown vs Jon Husted
+TX,James Talarico,Ken Paxton,-1.3144879336630708,3.0,4,2026-02-09,9.135915544738841,1333.2187119822565,Texas,James Talarico vs Ken Paxton
+TX,James Talarico,John Cornyn,-1.9217015518085683,3.0,4,2026-02-09,11.195711365536926,1322.7024440940183,Texas,James Talarico vs John Cornyn

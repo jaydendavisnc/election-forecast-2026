@@ -1,0 +1,29 @@
+{
+  "as_of_date": "2026-04-01",
+  "generic_ballot": {
+    "dem_pct": 47.6,
+    "rep_pct": 41.6,
+    "polls_included": 52,
+    "average_source": "RealClearPolling current average"
+  },
+  "trump_approval": {
+    "approve_pct": 39.5,
+    "disapprove_pct": 56.9,
+    "polls_included": 937
+  },
+  "right_track": {
+    "right_track_pct": 33.5,
+    "wrong_track_pct": 58.6,
+    "polls_included": 447
+  },
+  "current_house_breakdown": {
+    "republicans": 217,
+    "democrats": 214,
+    "independent": 1,
+    "vacancies": 3
+  },
+  "open_seats": {
+    "republican_held": 39,
+    "democrat_held": 26
+  }
+}
