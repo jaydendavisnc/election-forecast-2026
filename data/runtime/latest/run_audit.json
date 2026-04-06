@@ -1,5 +1,5 @@
 {
-  "as_of_date": "2026-04-05",
+  "as_of_date": "2026-04-06",
   "simulations": 50000,
   "history_simulations": 1500,
   "source_status": {
@@ -39,15 +39,15 @@
   "districts_open": 65,
   "districts_with_polls": 0,
   "districts_with_ratings": 70,
-  "history_points": 438,
+  "history_points": 439,
   "history_backcast_days": 0,
-  "history_observed_days": 438,
+  "history_observed_days": 439,
   "history_neutral_margin_dem": -0.162506103515625,
   "history_mode": "state_space_poll_filter",
   "history_campaign_inputs_mode": "current_inputs_frozen_for_comparability",
   "history_approval_mode": "current_approval_crosscheck_frozen_for_comparability",
-  "history_current_endpoint_gap_prob": -0.00411333333333333,
-  "history_current_endpoint_gap_seats": 0.13193999999998596,
-  "run_history_points": 5,
+  "history_current_endpoint_gap_prob": -0.004593333333333338,
+  "history_current_endpoint_gap_seats": 0.1349133333333441,
+  "run_history_points": 6,
   "seed": 20260401
 }
