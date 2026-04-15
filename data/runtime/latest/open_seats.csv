@@ -2,7 +2,7 @@ district_code,section,holding_party,open_seat,noncontributing,incumbent,party_la
 AL-01,REP_OPEN,REP,True,False,Barry Moore,(R),12-Aug-25,Running for Senate,22.0,77.0,24.0,75.0,
 AZ-01,REP_OPEN,REP,True,False,David Schweikert,(R),30-Sep-25,Running for governor,48.0,51.0,50.0,49.0,
 AZ-05,REP_OPEN,REP,True,False,Andy Biggs,(R),25-Jan-25,Running for governor,39.0,59.0,41.0,57.0,
-CA-03,REP_OPEN,REP,True,False,Kevin Kiley,(R),2-Mar-26,Running for CA-06,,,,,
+CA-03,REP_OPEN,REP,True,False,Kevin Kiley,(I),2-Mar-26,Running for CA-06,,,,,
 CA-41,REP_OPEN,REP,True,False,Ken Calvert,(R),5-Nov-25,Running for CA-40,,,,,
 CA-48,REP_OPEN,REP,True,False,Darrell Issa,(R),6-Mar-26,Retiring,,,,,Jim Desmond
 FL-02,REP_OPEN,REP,True,False,Neal Dunn,(R),13-Jan-26,Retiring,41.0,59.0,44.0,55.0,
@@ -32,7 +32,7 @@ TX-10,REP_OPEN,REP,True,False,Michael McCaul,(R),14-Sep-25,Retiring,,,,,
 TX-19,REP_OPEN,REP,True,False,Jodey Arrington,(R),11-Nov-25,Retiring,,,,,
 TX-21,REP_OPEN,REP,True,False,Chip Roy,(R),21-Aug-25,Running for attorney general,,,,,
 TX-22,REP_OPEN,REP,True,False,Troy Nehls,(R),29-Nov-25,Retiring,,,,,Trever Nehls
-TX-23,REP_OPEN,REP,True,False,Tony Gonzales,(R),5-Mar-26,Retiring,,,,,
+TX-23,REP_OPEN,REP,True,False,Tony Gonzales,(R),13-Apr-26,Resigned,,,,,
 TX-38,REP_OPEN,REP,True,False,Wesley Hunt,(R),6-Oct-25,Running for Senate,,,,,
 UT-04,REP_OPEN,REP,True,False,Burgess Owens,(R),4-Mar-26,Retiring,,,,,
 WA-04,REP_OPEN,REP,True,False,Dan Newhouse,(R),17-Dec-25,Retiring,38.0,59.0,40.0,57.0,
@@ -40,7 +40,6 @@ WI-07,REP_OPEN,REP,True,False,Tom Tiffany,(R),23-Sep-25,Running for governor,38.
 WY-AL,REP_OPEN,REP,True,False,Harriet Hageman,(R),23-Dec-25,Running for Senate,26.0,72.0,27.0,70.0,
 CA-06,DEM_OPEN,DEM,True,False,Ami Bera,(D),5-Nov-25,Running for CA-03,,,,,
 CA-11,DEM_OPEN,DEM,True,False,Nancy Pelosi,(D),6-Nov-25,Retiring,,,,,
-CA-14,DEM_OPEN,DEM,True,False,Eric Swalwell,(D),12-Apr-26,Retiring,,,,,
 CA-26,DEM_OPEN,DEM,True,False,Julia Brownley,(D),8-Jan-26,Retiring,,,,,Jacqui Irwin
 CA-38,DEM_OPEN,DEM,True,False,Linda Sanchez,(D),10-Nov-25,Running for CA-41,,,,,
 IL-02,DEM_OPEN,DEM,True,False,Robin Kelly,(D),6-May-25,Running for Senate,66.0,33.0,69.0,29.0,
@@ -65,11 +64,12 @@ TX-33,DEM_OPEN,DEM,True,False,Marc Veasey,(D),8-Dec-25,Retiring,,,,,
 TX-35,DEM_OPEN,DEM,True,False,Greg Casar,(D),25-Aug-25,Running for TX-37,,,,,
 TX-37,DEM_OPEN,DEM,True,False,Lloyd Doggett,(D),21-Aug-25,Retiring,,,,,
 CA-01,NONCONTRIB,,False,True,Doug LaMalfa,(R),6-Jan-26,Died,36.0,61.0,39.0,58.0,
-GA-14,NONCONTRIB,,False,True,Marjorie Taylor Greene,(R),21-Nov-25,Resigned,31.0,68.0,31.0,68.0,
+CA-14,NONCONTRIB,,False,True,Eric Swalwell,(D),13-Apr-26,Resigned,,,,,
 NJ-11,NONCONTRIB,,False,True,Mikie Sherrill,(D),4-Nov-25,Elected governor,53.0,45.0,58.0,41.0,
 AZ-07,NONCONTRIB,,False,True,Raul Grijalva,(D),13-Mar-25,"Died, filled by special",60.0,38.0,66.0,33.0,
 FL-01,NONCONTRIB,,False,True,Matt Gaetz,(R),13-Nov-24,"Unsuccessfully nominated for AG, filled by special",31.0,68.0,33.0,65.0,Jimmy Patronis
 FL-06,NONCONTRIB,,False,True,Michael Waltz,(R),12-Nov-24,"Named national security advisor, filled by special",35.0,65.0,38.0,61.0,Randy Fine
+GA-14,NONCONTRIB,,False,True,Marjorie Taylor Greene,(R),21-Nov-25,"Resigned, filled by special",31.0,68.0,31.0,68.0,
 TN-07,NONCONTRIB,,False,True,Mark Green,(R),9-Jun-25,"Resigned, filled by special",38.0,60.0,41.0,56.0,Matt Van Epps
 TX-18,NONCONTRIB,,False,True,Sylvester Turner,(D),5-Mar-25,"Died, filled by special",69.0,29.0,74.0,25.0,
 VA-11,NONCONTRIB,,False,True,Gerry Connolly,(D),21-May-25,"Died, filled by special",66.0,31.0,70.0,29.0,James Walkinshaw
