@@ -32,7 +32,6 @@ TX-10,REP_OPEN,REP,True,False,Michael McCaul,(R),14-Sep-25,Retiring,,,,,
 TX-19,REP_OPEN,REP,True,False,Jodey Arrington,(R),11-Nov-25,Retiring,,,,,
 TX-21,REP_OPEN,REP,True,False,Chip Roy,(R),21-Aug-25,Running for attorney general,,,,,
 TX-22,REP_OPEN,REP,True,False,Troy Nehls,(R),29-Nov-25,Retiring,,,,,Trever Nehls
-TX-23,REP_OPEN,REP,True,False,Tony Gonzales,(R),13-Apr-26,Resigned,,,,,
 TX-38,REP_OPEN,REP,True,False,Wesley Hunt,(R),6-Oct-25,Running for Senate,,,,,
 UT-04,REP_OPEN,REP,True,False,Burgess Owens,(R),4-Mar-26,Retiring,,,,,
 WA-04,REP_OPEN,REP,True,False,Dan Newhouse,(R),17-Dec-25,Retiring,38.0,59.0,40.0,57.0,
@@ -66,6 +65,7 @@ TX-37,DEM_OPEN,DEM,True,False,Lloyd Doggett,(D),21-Aug-25,Retiring,,,,,
 CA-01,NONCONTRIB,,False,True,Doug LaMalfa,(R),6-Jan-26,Died,36.0,61.0,39.0,58.0,
 CA-14,NONCONTRIB,,False,True,Eric Swalwell,(D),13-Apr-26,Resigned,,,,,
 NJ-11,NONCONTRIB,,False,True,Mikie Sherrill,(D),4-Nov-25,Elected governor,53.0,45.0,58.0,41.0,
+TX-23,NONCONTRIB,,False,True,Tony Gonzales,(R),13-Apr-26,Resigned,,,,,
 AZ-07,NONCONTRIB,,False,True,Raul Grijalva,(D),13-Mar-25,"Died, filled by special",60.0,38.0,66.0,33.0,
 FL-01,NONCONTRIB,,False,True,Matt Gaetz,(R),13-Nov-24,"Unsuccessfully nominated for AG, filled by special",31.0,68.0,33.0,65.0,Jimmy Patronis
 FL-06,NONCONTRIB,,False,True,Michael Waltz,(R),12-Nov-24,"Named national security advisor, filled by special",35.0,65.0,38.0,61.0,Randy Fine
