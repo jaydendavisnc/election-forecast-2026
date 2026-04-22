@@ -63,8 +63,9 @@ TX-33,DEM_OPEN,DEM,True,False,Marc Veasey,(D),8-Dec-25,Retiring,,,,,
 TX-35,DEM_OPEN,DEM,True,False,Greg Casar,(D),25-Aug-25,Running for TX-37,,,,,
 TX-37,DEM_OPEN,DEM,True,False,Lloyd Doggett,(D),21-Aug-25,Retiring,,,,,
 CA-01,NONCONTRIB,,False,True,Doug LaMalfa,(R),6-Jan-26,Died,36.0,61.0,39.0,58.0,
-CA-14,NONCONTRIB,,False,True,Eric Swalwell,(D),13-Apr-26,Resigned,,,,,
-TX-23,NONCONTRIB,,False,True,Tony Gonzales,(R),13-Apr-26,Resigned,,,,,
+CA-14,NONCONTRIB,,False,True,Eric Swalwell,(D),13-Apr-26,Resigning,66.0,30.0,72.0,26.0,
+FL-20,NONCONTRIB,,False,True,Sheila Cherfilus-McCormick,(D),21-Apr-26,Resigning,69.0,30.0,76.0,24.0,
+TX-23,NONCONTRIB,,False,True,Tony Gonzales,(R),13-Apr-26,Resigned,42.0,57.0,46.0,53.0,
 AZ-07,NONCONTRIB,,False,True,Raul Grijalva,(D),13-Mar-25,"Died, filled by special",60.0,38.0,66.0,33.0,
 FL-01,NONCONTRIB,,False,True,Matt Gaetz,(R),13-Nov-24,"Unsuccessfully nominated for AG, filled by special",31.0,68.0,33.0,65.0,Jimmy Patronis
 FL-06,NONCONTRIB,,False,True,Michael Waltz,(R),12-Nov-24,"Named national security advisor, filled by special",35.0,65.0,38.0,61.0,Randy Fine

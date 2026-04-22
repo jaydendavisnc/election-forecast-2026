@@ -12,6 +12,9 @@ NV-04,likely_dem
 OH-13,likely_dem
 OR-05,likely_dem
 PA-17,likely_dem
+VA-01,likely_dem
+VA-05,likely_dem
+VA-07,likely_dem
 CA-13,lean_dem
 CA-45,lean_dem
 CA-48,lean_dem
@@ -28,7 +31,8 @@ NY-04,lean_dem
 NY-19,lean_dem
 OH-01,lean_dem
 TX-28,lean_dem
-VA-07,lean_dem
+VA-02,lean_dem
+VA-06,lean_dem
 AZ-01,tossup
 AZ-06,tossup
 CA-22,tossup
@@ -44,12 +48,10 @@ PA-07,tossup
 PA-08,tossup
 PA-10,tossup
 TX-34,tossup
-VA-02,tossup
 WA-03,tossup
 WI-03,tossup
 NC-01,lean_rep
 PA-01,lean_rep
-VA-01,lean_rep
 AK-AL,likely_rep
 AZ-02,likely_rep
 CO-03,likely_rep
