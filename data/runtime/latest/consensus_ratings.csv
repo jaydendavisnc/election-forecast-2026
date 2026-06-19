@@ -47,6 +47,7 @@ WA-03,tossup
 WI-03,tossup
 FL-14,lean_rep
 FL-22,lean_rep
+IA-02,lean_rep
 MI-04,lean_rep
 NC-01,lean_rep
 NC-11,lean_rep
@@ -63,13 +64,13 @@ FL-12,likely_rep
 FL-13,likely_rep
 FL-16,likely_rep
 FL-27,likely_rep
-IA-02,likely_rep
 KY-06,likely_rep
 ME-02,likely_rep
 MN-01,likely_rep
 MT-01,likely_rep
 NY-01,likely_rep
 OH-07,likely_rep
+SC-01,likely_rep
 TX-15,likely_rep
 TX-23,likely_rep
 TX-35,likely_rep
