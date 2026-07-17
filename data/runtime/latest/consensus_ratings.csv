@@ -52,6 +52,7 @@ MI-04,lean_rep
 NC-01,lean_rep
 NC-11,lean_rep
 PA-01,lean_rep
+TX-15,lean_rep
 VA-01,lean_rep
 AK-AL,likely_rep
 AL-02,likely_rep
@@ -71,7 +72,6 @@ MT-01,likely_rep
 NY-01,likely_rep
 OH-07,likely_rep
 SC-01,likely_rep
-TX-15,likely_rep
 TX-23,likely_rep
 TX-35,likely_rep
 VA-05,likely_rep
