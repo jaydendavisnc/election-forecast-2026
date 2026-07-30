@@ -2,9 +2,7 @@ district_code,rating
 CA-06,likely_dem
 CA-21,likely_dem
 CA-45,likely_dem
-CT-05,likely_dem
 IN-01,likely_dem
-KS-03,likely_dem
 MI-03,likely_dem
 MI-08,likely_dem
 MN-02,likely_dem
@@ -30,6 +28,7 @@ TX-28,lean_dem
 WA-03,lean_dem
 CA-22,tossup
 CO-08,tossup
+FL-14,tossup
 FL-25,tossup
 IA-01,tossup
 IA-03,tossup
@@ -45,13 +44,13 @@ PA-10,tossup
 TX-34,tossup
 VA-02,tossup
 WI-03,tossup
-FL-14,lean_rep
 FL-22,lean_rep
 IA-02,lean_rep
 ME-02,lean_rep
 MI-04,lean_rep
 MT-01,lean_rep
 NC-11,lean_rep
+OH-07,lean_rep
 PA-01,lean_rep
 TX-15,lean_rep
 TX-35,lean_rep
@@ -63,7 +62,6 @@ AZ-08,likely_rep
 CO-03,likely_rep
 CO-04,likely_rep
 CO-05,likely_rep
-FL-04,likely_rep
 FL-07,likely_rep
 FL-09,likely_rep
 FL-13,likely_rep
@@ -73,7 +71,6 @@ KY-06,likely_rep
 MN-01,likely_rep
 MO-02,likely_rep
 MO-05,likely_rep
-NC-05,likely_rep
 NC-07,likely_rep
 NC-09,likely_rep
 NC-13,likely_rep
@@ -81,11 +78,12 @@ NE-01,likely_rep
 NJ-02,likely_rep
 NV-02,likely_rep
 NY-01,likely_rep
-OH-07,likely_rep
+OH-08,likely_rep
 OH-15,likely_rep
 SC-01,likely_rep
+TN-09,likely_rep
+TX-09,likely_rep
 TX-23,likely_rep
 TX-32,likely_rep
 VA-05,likely_rep
-WA-05,likely_rep
 WI-01,likely_rep
