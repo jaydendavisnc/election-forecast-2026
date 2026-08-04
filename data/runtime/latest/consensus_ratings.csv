@@ -58,10 +58,12 @@ VA-01,lean_rep
 AK-AL,likely_rep
 AL-02,likely_rep
 AZ-02,likely_rep
+AZ-05,likely_rep
 AZ-08,likely_rep
 CO-03,likely_rep
 CO-04,likely_rep
 CO-05,likely_rep
+FL-04,likely_rep
 FL-07,likely_rep
 FL-09,likely_rep
 FL-13,likely_rep
@@ -71,6 +73,7 @@ KY-06,likely_rep
 MN-01,likely_rep
 MO-02,likely_rep
 MO-05,likely_rep
+NC-03,likely_rep
 NC-07,likely_rep
 NC-09,likely_rep
 NC-13,likely_rep
@@ -78,12 +81,15 @@ NE-01,likely_rep
 NJ-02,likely_rep
 NV-02,likely_rep
 NY-01,likely_rep
+NY-21,likely_rep
 OH-08,likely_rep
+OH-10,likely_rep
 OH-15,likely_rep
 SC-01,likely_rep
 TN-09,likely_rep
 TX-09,likely_rep
 TX-23,likely_rep
+TX-24,likely_rep
 TX-32,likely_rep
 VA-05,likely_rep
 WI-01,likely_rep
