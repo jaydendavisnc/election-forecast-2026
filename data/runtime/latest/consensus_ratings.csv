@@ -35,6 +35,7 @@ IA-03,tossup
 MI-07,tossup
 MI-10,tossup
 NC-01,tossup
+NC-11,tossup
 NJ-07,tossup
 NY-17,tossup
 OH-09,tossup
@@ -49,7 +50,6 @@ IA-02,lean_rep
 ME-02,lean_rep
 MI-04,lean_rep
 MT-01,lean_rep
-NC-11,lean_rep
 OH-07,lean_rep
 PA-01,lean_rep
 TX-15,lean_rep
@@ -57,15 +57,18 @@ TX-35,lean_rep
 VA-01,lean_rep
 AK-AL,likely_rep
 AL-02,likely_rep
+AR-02,likely_rep
 AZ-02,likely_rep
-AZ-05,likely_rep
 AZ-08,likely_rep
 CO-03,likely_rep
 CO-04,likely_rep
 CO-05,likely_rep
 FL-04,likely_rep
 FL-07,likely_rep
+FL-08,likely_rep
 FL-09,likely_rep
+FL-11,likely_rep
+FL-12,likely_rep
 FL-13,likely_rep
 FL-16,likely_rep
 FL-27,likely_rep
@@ -73,7 +76,6 @@ KY-06,likely_rep
 MN-01,likely_rep
 MO-02,likely_rep
 MO-05,likely_rep
-NC-03,likely_rep
 NC-07,likely_rep
 NC-09,likely_rep
 NC-13,likely_rep
@@ -81,7 +83,6 @@ NE-01,likely_rep
 NJ-02,likely_rep
 NV-02,likely_rep
 NY-01,likely_rep
-NY-21,likely_rep
 OH-08,likely_rep
 OH-10,likely_rep
 OH-15,likely_rep
