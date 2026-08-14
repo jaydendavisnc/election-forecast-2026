@@ -37,6 +37,7 @@ NC-01,tossup
 NC-11,tossup
 NJ-07,tossup
 NY-17,tossup
+OH-07,tossup
 OH-09,tossup
 PA-07,tossup
 PA-08,tossup
@@ -44,12 +45,12 @@ PA-10,tossup
 TX-34,tossup
 VA-02,tossup
 WI-03,tossup
+CO-03,lean_rep
 FL-22,lean_rep
 IA-02,lean_rep
 ME-02,lean_rep
 MI-04,lean_rep
 MT-01,lean_rep
-OH-07,lean_rep
 PA-01,lean_rep
 TX-15,lean_rep
 TX-35,lean_rep
@@ -59,12 +60,10 @@ AL-02,likely_rep
 AR-02,likely_rep
 AZ-02,likely_rep
 AZ-08,likely_rep
-CO-03,likely_rep
 CO-04,likely_rep
 CO-05,likely_rep
 FL-04,likely_rep
 FL-07,likely_rep
-FL-08,likely_rep
 FL-09,likely_rep
 FL-11,likely_rep
 FL-12,likely_rep
