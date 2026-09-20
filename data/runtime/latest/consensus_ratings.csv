@@ -6,6 +6,7 @@ CA-45,likely_dem
 IN-01,likely_dem
 MI-08,likely_dem
 MN-02,likely_dem
+NE-02,likely_dem
 NH-01,likely_dem
 NH-02,likely_dem
 NJ-09,likely_dem
@@ -22,7 +23,6 @@ AZ-06,lean_dem
 CA-22,lean_dem
 CA-48,lean_dem
 CO-08,lean_dem
-NE-02,lean_dem
 NJ-07,lean_dem
 NY-03,lean_dem
 OH-01,lean_dem
@@ -75,6 +75,7 @@ MN-01,likely_rep
 MO-02,likely_rep
 NC-07,likely_rep
 NC-09,likely_rep
+NC-13,likely_rep
 NE-01,likely_rep
 NJ-02,likely_rep
 NV-02,likely_rep
@@ -86,4 +87,5 @@ SC-01,likely_rep
 TX-23,likely_rep
 TX-32,likely_rep
 VA-05,likely_rep
+WA-05,likely_rep
 WI-01,likely_rep
