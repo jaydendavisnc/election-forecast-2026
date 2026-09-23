@@ -3,6 +3,7 @@ CA-06,likely_dem
 CA-13,likely_dem
 CA-21,likely_dem
 CA-45,likely_dem
+CA-48,likely_dem
 IN-01,likely_dem
 MI-08,likely_dem
 MN-02,likely_dem
@@ -14,6 +15,7 @@ NM-02,likely_dem
 NV-01,likely_dem
 NV-03,likely_dem
 NV-04,likely_dem
+NY-03,likely_dem
 NY-04,likely_dem
 NY-19,likely_dem
 OH-13,likely_dem
@@ -21,10 +23,9 @@ VA-07,likely_dem
 AZ-01,lean_dem
 AZ-06,lean_dem
 CA-22,lean_dem
-CA-48,lean_dem
 CO-08,lean_dem
+IA-01,lean_dem
 NJ-07,lean_dem
-NY-03,lean_dem
 OH-01,lean_dem
 TX-28,lean_dem
 TX-34,lean_dem
@@ -32,7 +33,6 @@ VA-02,lean_dem
 WA-03,lean_dem
 FL-14,tossup
 FL-25,tossup
-IA-01,tossup
 IA-02,tossup
 IA-03,tossup
 MI-04,tossup
@@ -52,6 +52,7 @@ VA-01,tossup
 WI-03,tossup
 CO-03,lean_rep
 CO-05,lean_rep
+FL-07,lean_rep
 FL-22,lean_rep
 ME-02,lean_rep
 MT-01,lean_rep
@@ -63,19 +64,15 @@ AZ-02,likely_rep
 AZ-08,likely_rep
 CO-04,likely_rep
 FL-04,likely_rep
-FL-07,likely_rep
 FL-09,likely_rep
 FL-11,likely_rep
 FL-13,likely_rep
 FL-16,likely_rep
 FL-27,likely_rep
-IN-05,likely_rep
 KY-06,likely_rep
 MN-01,likely_rep
 MO-02,likely_rep
-NC-07,likely_rep
 NC-09,likely_rep
-NC-13,likely_rep
 NE-01,likely_rep
 NJ-02,likely_rep
 NV-02,likely_rep
@@ -84,8 +81,9 @@ NY-21,likely_rep
 OH-10,likely_rep
 OH-15,likely_rep
 SC-01,likely_rep
+TN-09,likely_rep
+TX-09,likely_rep
 TX-23,likely_rep
-TX-32,likely_rep
 VA-05,likely_rep
 WA-05,likely_rep
 WI-01,likely_rep
